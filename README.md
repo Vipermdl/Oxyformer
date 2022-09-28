@@ -8,5 +8,5 @@ Dissolved oxygen (DO) has far-reaching impacts on ocean biodiversity, productivi
 ## Benchmarking
 
 <div style="color:#0000FF" align="center">
-<img src="new_model-6.2.jpg" width="680"/> <img src="new_model-6.2.jpg" width="680"/>
+<img src="new_model - 6.2.jpg" width="680"/>
 </div>
