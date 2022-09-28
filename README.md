@@ -66,9 +66,9 @@ If you want to evlauate the detection performance, simply run
 python evaluate.py experiments/inference.toml
 ```
 
-#### Inference
+### Inference
 
-'''
+```
 python inference.py experiments/inference.toml -o outputdir
-'''
+```
 
