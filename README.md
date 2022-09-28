@@ -15,5 +15,12 @@ Dissolved oxygen (DO) has far-reaching impacts on ocean biodiversity, productivi
 
 ## Benchmarking
 
-In this work, 
+In this work, we integrated DO observational data from different data source to a more extensive database in combination with using rigorously depth mapping and strict quality control. And DO dataset are then combined for data-driven modeling using observed DO measurements as the response variable and hydrometeorological / biogeochemical drivers as variables. Details are illustrated in our paper. 
 
+### Results and Models
+|  Method   | R^{2} | RMSE | MAE |
+| :---------: | :-----: | :------: | :------------: | 
+|    R-50     |   2x    |   5.1    |      15.0      | 
+|    R-101    |   2x    |   7.0    |      12.6      |  
+| X-101-32x4d |   2x    |   8.3    |      10.8      | 
+| X-101-64x4d |   2x    |   11.3   |      7.7       |  
