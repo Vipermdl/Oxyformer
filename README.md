@@ -3,19 +3,7 @@
 ## Introduction
 
 
-<div style="color:#0000FF" align="center">
-<img src="new_model - 6.2.jpg" width="680"/>
-</div>
 
-## Major features
-- **Design a transformer-based model (Oxyformer) to estimate oceanic DO concentration at global scale.**
-- **Oxyformer have higher performance in terms of consistency with historical DO concentration measurements compared to physical-based model and other machine learning methods.**
-- **Oxyformer's variables importance results are consistent with established causal linkages between hydrometeorological, biogeochemical drivers and DO concentration.**
-- **The spatial correlation and temporal trend are trustworthy displayed by Oxyformer.**
-
-## Benchmarking
-
-In this work, we integrated DO observational data from different data source to a more extensive database in combination with using rigorously depth mapping and strict quality control. And DO dataset are then combined for data-driven modeling using observed DO measurements as the response variable and hydrometeorological / biogeochemical drivers as variables. Details are illustrated in our paper. 
 
 ### Results and Models
 |  Method   | $R^{2}$ | MAE | RMSE |
