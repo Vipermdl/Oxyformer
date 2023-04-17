@@ -102,12 +102,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ### :art: Dissolved Oxygen measurements
 
-| Name                                                                                |
-| ----------------------------------------------------------------------------------- |
-| [World Ocean Database](https://via.placeholder.com/10/222831?text=+)|
-| [CLIVAR and Carbon Hydrographic Database]([https://via.placeholder.com/10/393E46?text=+](https://cchdo.ucsd.edu/))|
-| [Pangaea Database]([https://via.placeholder.com/10/00ADB5?text=+](https://www.pangaea.de/))|
-| [Global Ocean Data Analysis](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/GLODAPv2_2021/)|
+| Name                                                                                |Date accessed|
+| ----------------------------------------------------------------------------------- |------ |
+| [World Ocean Database](https://www.ncei.noaa.gov/)|02-2023|
+| [CLIVAR and Carbon Hydrographic Database](https://cchdo.ucsd.edu/)|02-2023|
+| [Pangaea Database](https://www.pangaea.de/)|02-2023|
+| [Global Ocean Data Analysis](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/GLODAPv2_2021/)|02-2023|
 
 ### :key: Driven factors
 
