@@ -196,7 +196,7 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 <!-- FAQ -->
-## :grey_question: FAQ
+<!-- ## :grey_question: FAQ
 
 - Question 1
 
@@ -204,7 +204,7 @@ See `contributing.md` for ways to get started.
 
 - Question 2
 
-  + Answer 2
+  + Answer 2 -->
 
 
 <!-- License -->
@@ -216,7 +216,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Dongliang Ma - [@dongliangma1](https://twitter.com/twitter_handle) - mdl.viper@gmail.com
+Dongliang Ma - [@dongliangma1](https://twitter.com/dongliangma1) - mdl.viper@gmail.com
 
 Project Link: [https://github.com/Vipermdl/Oxyformer](https://github.com/Vipermdl/Oxyformer)
 
@@ -226,10 +226,6 @@ Project Link: [https://github.com/Vipermdl/Oxyformer](https://github.com/Vipermd
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
-
-
-
+ - [Xarray](https://docs.xarray.dev/en/stable/)
+ - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/)
+ - [GEBCO_2022](https://www.gebco.net/data_and_products/gridded_bathymetry_data/gebco_2022/)
