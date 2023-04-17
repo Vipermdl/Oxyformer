@@ -11,9 +11,9 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!--   <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
   <h1>Deep learning for eastimating dissolved oxygen in global ocean</h1>
   
-<!--   <p>
-    An awesome README template for your projects! 
-  </p> -->
+  <p>
+    Details for Oxyformer will be publicly available upon publication! 
+  </p>
   
   
 <!-- Badges -->
@@ -97,9 +97,21 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Roadmap -->
 ## :compass: Data preparation
 
-* [x] Todo 1
-* [ ] Todo 2
+* [x] Dissolved Oxygen measurements
+* [x] Driven factors
 
+### :art: Dissolved Oxygen measurements
+
+| Name                                                                                |
+| ----------------------------------------------------------------------------------- |
+| [World Ocean Database](https://via.placeholder.com/10/222831?text=+)|
+| [CLIVAR and Carbon Hydrographic Database]([https://via.placeholder.com/10/393E46?text=+](https://cchdo.ucsd.edu/))|
+| [Pangaea Database]([https://via.placeholder.com/10/00ADB5?text=+](https://www.pangaea.de/))|
+| [Global Ocean Data Analysis](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/GLODAPv2_2021/)|
+
+### :key: Driven factors
+
+- More details will be updated soon...
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
