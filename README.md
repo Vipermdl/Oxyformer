@@ -120,7 +120,7 @@ First, install dependencies
 ## :compass: Data preparation
 
 * [x] Dissolved Oxygen measurements
-* [x] Driven factors
+* [] Driven factors
 
 ### :art: Dissolved Oxygen measurements
 
@@ -143,7 +143,14 @@ First, install dependencies
 ### :key: Driven factors
 
 - More details will be updated soon...
-   
+- After download the driven factors, run the following command to obtain the dataset dicatating Oxyformer's input and output data and train/val/test splits.
+
+```bash
+  python scripts/label_utils.py --merge --splits
+```
+
+## :eyes: Develop the Oxyformer
+
 <!-- Running Tests -->
 ### :test_tube: Training Oxyformer
 
@@ -189,8 +196,8 @@ function App() {
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/Vipermdl/Oxyformer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Vipermdl/Oxyformer" />
 </a>
 
 
