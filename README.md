@@ -170,7 +170,7 @@ To save predictions between July 2002 and December 2020 as NetCDFs for Oxyformer
 <!-- Deployment -->
 ### :triangular_flag_on_post: Post process
 
-The post-processing algorithm is then applied to determine whether the DO data derived Oxyformer corresponding to the depth level were retained based on the depth was less than or greater than the bathymetry run
+The post-processing algorithm is then applied
 
 ```bash
   python post-processing/mask_result_by_bathymetric.py
