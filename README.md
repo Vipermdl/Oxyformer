@@ -8,12 +8,12 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+<!--   <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
+  <h1>Deep learning for eastimating dissolved oxygen in global ocean</h1>
   
-  <p>
+<!--   <p>
     An awesome README template for your projects! 
-  </p>
+  </p> -->
   
   
 <!-- Badges -->
@@ -328,7 +328,7 @@ Use this section to mention useful resources and libraries that you have used in
 
 
 
-# Deep learning for eastimating dissolved oxygen in global ocean
+# 
 
 ## Introduction
 
