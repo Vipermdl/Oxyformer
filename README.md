@@ -119,41 +119,22 @@ First, install dependencies
 ```
    
 <!-- Running Tests -->
-### :test_tube: Running Tests
+### :test_tube: Training Oxyformer
 
-To run tests, run the following command
+To train Oxyformer, run the following command
 
 ```bash
-  yarn test test
+  python main.py experiments/Oxyformer.toml
 ```
 
 <!-- Run Locally -->
-### :running: Run Locally
+### :running: Run inference
 
-Clone the project
-
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
+To save predictions between July 2002 and December 2020 as NetCDFs for Oxyformer run
 
 ```bash
-  cd my-project
+  python inference.py experiments/inference.toml -o outputdir
 ```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
 
 <!-- Deployment -->
 ### :triangular_flag_on_post: Deployment
@@ -241,62 +222,4 @@ Use this section to mention useful resources and libraries that you have used in
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Preparation
-
-First of all, clone the code
-```
-git clone https://github.com/Vipermdl/Oxyformer
-```
-
-### prerequisites
-
-* Python 3.8
-* Pytorch 1.10.1
-* CUDA 11.3 or higher
-
-### Data Preparation
-
-The dataset will upload if it is available.
-
-### Compilation
-
-Install all the python dependencies using pip:
-```
-pip install -r requirements.txt
-```
-
-### Train
-
-Try:
-```
-python main.py experiments/Oxyformer.toml
-```
-
-### Test
-
-If you want to evlauate the detection performance, simply run
-```
-python evaluate.py experiments/inference.toml
-```
-
-### Inference
-
-```
-python inference.py experiments/inference.toml -o outputdir
-```
 
