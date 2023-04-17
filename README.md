@@ -60,14 +60,15 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
+- [Data preparation](#compass-data-preparation)
+  * [Dissolved Oxygen measurements](#art-dissolved-oxyen-measurements)
+  * [Driven factors](#key-driven-factors)
+- [Develop the Oxyformer](#eyes-develop-the-oxyformer)
+  * [Training Oxyformer](#test_tube-training-oxyformer)
+  * [Run inference](#running-run-inference)
+  * [Post process](#triangular_flag_on_post-post-process)
+ - [Data and Results](#scroll-data-and-results)
 - [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
@@ -167,7 +168,7 @@ To save predictions between July 2002 and December 2020 as NetCDFs for Oxyformer
 ```
 
 <!-- Deployment -->
-### :triangular_flag_on_post: Post-process
+### :triangular_flag_on_post: Post process
 
 The post-processing algorithm is then applied to determine whether the DO data derived Oxyformer corresponding to the depth level were retained based on the depth was less than or greater than the bathymetry run
 
