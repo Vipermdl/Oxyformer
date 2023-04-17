@@ -75,8 +75,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
-  
-
 <!-- About the Project -->
 ## :star2: About the Project
 
@@ -93,25 +91,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 - Feature 1
 - Feature 2
 - Feature 3
-
-<!-- Roadmap -->
-## :compass: Data preparation
-
-* [x] Dissolved Oxygen measurements
-* [x] Driven factors
-
-### :art: Dissolved Oxygen measurements
-
-| Name                                                                                |Date accessed|
-| ----------------------------------------------------------------------------------- |------ |
-| [World Ocean Database](https://www.ncei.noaa.gov/)|02-2023|
-| [CLIVAR and Carbon Hydrographic Database](https://cchdo.ucsd.edu/)|02-2023|
-| [Pangaea Database](https://www.pangaea.de/)|02-2023|
-| [Global Ocean Data Analysis](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/GLODAPv2_2021/)|02-2023|
-
-### :key: Driven factors
-
-- More details will be updated soon...
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -136,6 +115,34 @@ First, install dependencies
   cd Oxyformer
   pip install -r requirements.txt
 ```
+
+<!-- Roadmap -->
+## :compass: Data preparation
+
+* [x] Dissolved Oxygen measurements
+* [x] Driven factors
+
+### :art: Dissolved Oxygen measurements
+
+| Name                                                                                |Date accessed|
+| ----------------------------------------------------------------------------------- |------ |
+| [World Ocean Database](https://www.ncei.noaa.gov/)|02-2023|
+| [CLIVAR and Carbon Hydrographic Database](https://cchdo.ucsd.edu/)|02-2023|
+| [Pangaea Database](https://www.pangaea.de/)|02-2023|
+| [Global Ocean Data Analysis](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/GLODAPv2_2021/)|02-2023|
+
+- After download the measurements of oxygen data, run the following command to data compilation and quality control
+
+```bash
+  # interpolate depth mapping using pchip function and data integrated.
+  python scripts/interpolate.py
+  # quality control for observational oxygen data
+  python scripts/quality_control.py
+```
+
+### :key: Driven factors
+
+- More details will be updated soon...
    
 <!-- Running Tests -->
 ### :test_tube: Training Oxyformer
