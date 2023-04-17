@@ -94,6 +94,13 @@ Maybe you can mention me or this repo in the acknowledgements too
 - Feature 2
 - Feature 3
 
+<!-- Roadmap -->
+## :compass: Data preparation
+
+* [x] Todo 1
+* [ ] Todo 2
+
+
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
@@ -160,13 +167,6 @@ function App() {
 }
 ```
 
-<!-- Roadmap -->
-## :compass: Roadmap
-
-* [x] Todo 1
-* [ ] Todo 2
-
-
 <!-- Contributing -->
 ## :wave: Contributing
 
@@ -206,7 +206,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Dongliang Ma - [@twitter_handle](https://twitter.com/twitter_handle) - mdl.viper@gmail.com
 
 Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
 
