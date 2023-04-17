@@ -82,86 +82,17 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 <!-- Screenshots -->
-### :camera: Screenshots
+### :camera: Model architecture
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
+</div> -->
 
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
 ### :dart: Features
 
 - Feature 1
 - Feature 2
 - Feature 3
-
-<!-- Color Reference -->
-### :art: Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-
-
-<!-- Env Variables -->
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -169,20 +100,22 @@ To run this project, you will need to add the following environment variables to
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
-
-```bash
- npm install --global yarn
-```
+* Python 3.8
+* Pytorch 1.10.1
+* CUDA 11.3 or higher
 
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
+First, install dependencies
 
 ```bash
-  yarn install my-project
-  cd my-project
+  # clone project 
+  git clone https://github.com/Vipermdl/Oxyformer
+  
+  # install project
+  cd Oxyformer
+  pip install -r requirements.txt
 ```
    
 <!-- Running Tests -->
@@ -321,29 +254,6 @@ Use this section to mention useful resources and libraries that you have used in
 
 
 
-
-
-
-
-
-
-
-# 
-
-## Introduction
-
-
-
-
-### Results and Models
-|  Method   | $R^{2}$ | MAE | RMSE |
-| :---------: | :-----: | :------: | :------------: | 
-|    NEMO-PICES     |   0.78    |   21.481    |      37.428      | 
-|    Light-GBM    |   0.83    |   20.291    |      32.682      |  
-| XGBoost |   0.8    |   22.302    |      35.245      | 
-| MLP |   0.78    |   24.324    |      37.021      | 
-| ResNet |   0.84    |   20.073    |      31.379      | 
-| Oxyformer (ours) |   0.86    |   18.581   |      29.835       |  
 
 
 ## Preparation
