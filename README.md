@@ -178,20 +178,11 @@ The post-processing algorithm is then applied to determine whether the DO data d
   python post-processing/mask_result_by_bathymetric.py
 ```
 
+<!-- Code of Conduct -->
+## :scroll: Data and Results
 
-<!-- Usage -->
-## :eyes: Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+- See [DATA.md](https://github.com/Vipermdl/Oxyformer/data.md) for instructions on how to download the data of our Oxyformer.
+- Please read the [DRAW.md](https://github.com/Vipermdl/Oxyformer/draw.md) to generate the paper figures.
 
 <!-- Contributing -->
 ## :wave: Contributing
@@ -200,16 +191,9 @@ function App() {
   <img src="https://contrib.rocks/image?repo=Vipermdl/Oxyformer" />
 </a>
 
-
 Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
-
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -232,9 +216,9 @@ Distributed under the no License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-Dongliang Ma - [@twitter_handle](https://twitter.com/twitter_handle) - mdl.viper@gmail.com
+Dongliang Ma - [@dongliangma1](https://twitter.com/twitter_handle) - mdl.viper@gmail.com
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/Vipermdl/Oxyformer](https://github.com/Vipermdl/Oxyformer)
 
 
 <!-- Acknowledgments -->
