@@ -33,19 +33,19 @@ Maybe you can mention me or this repo in the acknowledgements too
   <a href="https://github.com/Vipermdl/Oxyformer/issues/">
     <img src="https://img.shields.io/github/issues/Vipermdl/Oxyformer" alt="open issues" />
   </a>
-  <a href="https://github.com/Vipermdl/Oxyformer/blob/master/LICENSE">
+<!--   <a href="https://github.com/Vipermdl/Oxyformer/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Vipermdl/Oxyformer.svg" alt="license" />
-  </a>
+  </a> -->
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/Vipermdl/Oxyformer">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/Vipermdl/Oxyformer">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/Vipermdl/Oxyformer/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/Vipermdl/Oxyformer/issues/">Request Feature</a>
   </h4>
 </div>
 
