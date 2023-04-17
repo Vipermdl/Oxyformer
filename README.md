@@ -55,11 +55,8 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
+  * [Model architecture](#camera-model-architecture)
   * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
@@ -181,8 +178,8 @@ The post-processing algorithm is then applied to determine whether the DO data d
 <!-- Code of Conduct -->
 ## :scroll: Data and Results
 
-- See [DATA.md](https://github.com/Vipermdl/Oxyformer/data.md) for instructions on how to download the data of our Oxyformer.
-- Please read the [DRAW.md](https://github.com/Vipermdl/Oxyformer/draw.md) to generate the paper figures.
+- See [DATA.md](https://github.com/Vipermdl/Oxyformer/blob/main/data.md) for instructions on how to download the data of our Oxyformer.
+- Please read the [DRAW.md](https://github.com/Vipermdl/Oxyformer/blob/main/draw.md) to generate the paper figures.
 
 <!-- Contributing -->
 ## :wave: Contributing
