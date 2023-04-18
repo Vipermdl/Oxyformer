@@ -56,7 +56,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 - [About the Project](#star2-about-the-project)
   * [Model architecture](#camera-model-architecture)
-  * [Features](#dart-features)
+  * [Contributions](#dart-contributions)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
@@ -84,7 +84,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div> -->
 
-### :dart: Features
+### :dart: Contributions
 
 - Feature 1
 - Feature 2
