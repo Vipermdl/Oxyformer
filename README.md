@@ -191,8 +191,6 @@ The post-processing algorithm is then applied
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
 <!-- FAQ -->
 <!-- ## :grey_question: FAQ
 
