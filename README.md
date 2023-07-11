@@ -76,14 +76,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- About the Project -->
 ## :star2: About the Project
 
-
-<!-- Screenshots -->
-### :camera: Model architecture
-
-<!-- <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div> -->
-
 ### :fire: Update
 
 - [2023/07/11] We have released the 2003-2020 Yearly Dissolved Oxygen Products derived by Oxyformer.
@@ -147,6 +139,13 @@ First, install dependencies
 ```
 
 ## :eyes: Develop the Oxyformer
+
+<!-- Screenshots -->
+### :camera: Model architecture
+
+<!-- <div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+</div> -->
 
 <!-- Running Tests -->
 ### :test_tube: Training Oxyformer
