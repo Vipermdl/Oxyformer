@@ -78,7 +78,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ### :fire: Update
 
-- [2023/07/11] We have released the annual Dissolved Oxygen Products derived by Oxyformer, details are shown in [here](https://github.com/Vipermdl/Oxyformer/edit/main/data.md).
+- [2023/07/11] We have released the annual Dissolved Oxygen Products derived by Oxyformer, details are shown in [here](https://github.com/Vipermdl/Oxyformer/blob/main/data.md).
 
 
 <!-- Getting Started -->
