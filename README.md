@@ -109,7 +109,7 @@ First, install dependencies
 ## :compass: Data preparation
 
 * [x] Dissolved Oxygen measurements
-* [ ] Driven factors
+* [x] Driven factors
 
 ### :art: Dissolved Oxygen measurements
 
@@ -131,7 +131,7 @@ First, install dependencies
 
 ### :key: Driven factors
 
-- More details will be updated soon...
+- Details of the drivers can be found in our paper.
 - After download the driven factors, run the following command to obtain the dataset dicatating Oxyformer's input and output data and train/val/test splits.
 
 ```bash
