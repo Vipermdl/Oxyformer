@@ -1,7 +1,8 @@
-"""_summary_
+"""
+Please first download the observational data, and then run the script to interpolate the DO observes. 
 
-Returns:
-    depth_x: _description_
+Params:
+    depth_x: the 75 depth levels referenced by the [NEMO-PICES](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_BGC_001_029/description) 
 """
 import gsw
 import argparse
