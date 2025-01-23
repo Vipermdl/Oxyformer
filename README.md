@@ -200,8 +200,8 @@ Contributions are always welcome!
 <!-- License -->
 ## :warning: Citation
 
-'''
-@article{ma2025deep,
+```bash
+  @article{ma2025deep,
   title={Deep learning reveals hotspots of global oceanic oxygen changes from 2003 to 2020},
   author={Ma, Dongliang and Zhao, Fang and Zhu, Likai and Li, Xiaofei and Wei, Jine and Chen, Xi and Hou, Lijun and Li, Ye and Liu, Min},
   journal={International Journal of Applied Earth Observation and Geoinformation},
@@ -210,7 +210,7 @@ Contributions are always welcome!
   year={2025},
   publisher={Elsevier}
 }
-'''
+```
 
 <!-- Contact -->
 ## :handshake: Contact
