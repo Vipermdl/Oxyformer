@@ -198,10 +198,19 @@ Contributions are always welcome!
 
 
 <!-- License -->
-## :warning: License
+## :warning: Citation
 
-Distributed under the no License. See LICENSE.txt for more information.
-
+'''
+@article{ma2025deep,
+  title={Deep learning reveals hotspots of global oceanic oxygen changes from 2003 to 2020},
+  author={Ma, Dongliang and Zhao, Fang and Zhu, Likai and Li, Xiaofei and Wei, Jine and Chen, Xi and Hou, Lijun and Li, Ye and Liu, Min},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={136},
+  pages={104363},
+  year={2025},
+  publisher={Elsevier}
+}
+'''
 
 <!-- Contact -->
 ## :handshake: Contact
