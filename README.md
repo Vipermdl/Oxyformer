@@ -11,10 +11,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!--   <img src="assets/logo.png" alt="logo" width="200" height="auto" /> -->
   <h1>Deep learning for eastimating dissolved oxygen in global ocean</h1>
   
-  <p>
-    Details for Oxyformer will be publicly available upon publication! 
-  </p>
-  
   
 <!-- Badges -->
 <p>
