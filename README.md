@@ -123,8 +123,8 @@ First, install dependencies
   python scripts/interpolate.py
   # quality control for observational oxygen data
   python scripts/quality_control.py
-  # You can use the data we generated in this step, the download link is [here](https://pan.baidu.com/s/15qFvnPn1UuxxDDtaNiqsEA?pwd=xcjr).
 ```
+You can use the data we generated in this step, the download link is [here](https://pan.baidu.com/s/15qFvnPn1UuxxDDtaNiqsEA?pwd=xcjr).
 
 ### :key: Driven factors
 
