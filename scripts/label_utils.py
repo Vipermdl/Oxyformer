@@ -170,7 +170,7 @@ def train_validate_test_split(df, train_percent=.63, validate_percent=.07, seed=
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='PyTorch FixMatch Training')
-    parser.add_argument('--save-dir', default='interpolate_result', type=str,
+    parser.add_argument('--save-dir', default='dataset/data', type=str,
                         help='directory to output the result')
     parser.add_argument('--oras5-path', default=None, type=str,
                         help='path to ORAS5 (default: none)')
