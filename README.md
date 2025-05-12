@@ -165,10 +165,22 @@ To save predictions between July 2002 and December 2020 as NetCDFs for Oxyformer
 <!-- Deployment -->
 ### :triangular_flag_on_post: Post process
 
+After that, we use the Climate Data Operators to generate a single .nc file
+
+```bash
+  cdo -z zip9 merge output/*.nc 2003-2020.nc
+```
+
 The post-processing algorithm is then applied to maintain consistency with established bathymetric references (source: GEBCO_2022, available in our dataset folder) 
 
 ```bash
   python post-processing/mask_result_by_bathymetric.py
+```
+
+The results presented in our manuscript are obtained by further calculating the year-by-year results using cdo:
+
+```bash
+  cdo -z zip9 yearmean mask_2003-2020.nc mask_2003-2020-yearly.nc
 ```
 
 <!-- Code of Conduct -->
