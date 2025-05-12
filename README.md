@@ -165,7 +165,7 @@ To save predictions between July 2002 and December 2020 as NetCDFs for Oxyformer
 <!-- Deployment -->
 ### :triangular_flag_on_post: Post process
 
-The post-processing algorithm is then applied
+The post-processing algorithm is then applied to maintain consistency with established bathymetric references (source: GEBCO_2022, available in our dataset folder) 
 
 ```bash
   python post-processing/mask_result_by_bathymetric.py
