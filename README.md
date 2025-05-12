@@ -140,9 +140,9 @@ You can use the data we generated in this step, the download link is [here](http
 <!-- Screenshots -->
 ### :camera: Model architecture
 
-<!-- <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div> -->
+<div align="center"> 
+  <img src="imgs/oxyformer.png" alt="screenshot" />
+</div>
 
 <!-- Running Tests -->
 ### :test_tube: Training Oxyformer
